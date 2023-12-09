@@ -1,6 +1,6 @@
 Czestotliwości do wgrania do KRT2 (instrukcja jak zrobić kabel w pliku krt2-connection.pdf)
 
-Dla zachowania czytelności i łatowści obsługi, obowiązuje następujący format:
+Dla zachowania czytelności i łatwości obsługi, obowiązuje następujący format:
 
 1. Częstotliwości zebrane są w grupach
 2. Grupa na początku ma częstotliwości FIS-ów i częstotliwości przelotowe
